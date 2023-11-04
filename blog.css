@@ -1,0 +1,26 @@
+.blog-div{
+    border: 2px solid gray;
+    background-color: white;
+    display: flex;
+    flex-wrap:wrap;
+}
+
+.subblog-div1{
+    width: 250px;
+    padding: 10px;
+    height: 250px;
+    
+}
+
+.subblog-div2{
+    width: 450px;
+    height: 230px;
+    padding-top: 45px;
+    padding-left: 20px;
+}
+
+.blog-span1{
+    font-size: 20px;
+    font-weight: bold;
+    
+}

@@ -1,0 +1,25 @@
+.studiv{
+    display: grid;
+    grid-template-columns: 150px 150px 150px;
+    margin-top: 40px;
+    padding: 40px;
+    column-gap: 40px;
+    justify-content: center;
+    row-gap: 40px;
+}
+
+.sub-studiv{
+    line-height: 10px;
+    width: 155px;
+    background-color: white;
+    border: 1px solid gray;
+    padding: 4px;
+    border-radius: 10px;
+}
+
+#mainstud-div{
+    background-color:#364968;
+    margin: 0px;
+    border: 0.6px ridge grey;
+    margin-bottom: 30px;
+}
